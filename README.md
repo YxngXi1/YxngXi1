@@ -1,7 +1,7 @@
 - 🧸 Hey there! My name is Yang
 - 👀 I’m interested in healthcare but I do a lil' bit of coding for fun
 - 🌱 I’m currently learning react.js front-end, and nodeJs backend
-- 💞️ I’m currently working on a physoly.tech website using html/css
+- 💞️ I’m currently working on a physoly.tech and healthcarecoding.org website using html/css and nextJS
 - 📫 Feel free to reach out to me using my email, yang@xue.email
 
 <!---
