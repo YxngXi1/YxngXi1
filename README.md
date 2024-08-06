@@ -4,6 +4,8 @@ Hi 👋 My name is Yang Xue
 Front-End Developer
 -------------------
 
+![Funny Cat](https://media.tenor.com/Cdsz67OHTE0AAAAi/kitty-cat.gif)
+
 I started learning to code in December of 2023, and from there I have worked hard to build my knowledge of coding and overall I'm pretty bad, but I'm working hard to improve and improve my stack
 
 * 🌍  I'm based in Toronto, Ontario
