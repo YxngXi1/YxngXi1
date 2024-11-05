@@ -10,7 +10,7 @@ I started learning to code in December of 2023, and from there I have worked har
 
 * 🌍  I'm based in Toronto, Ontario
 * ✉️  You can contact me at [yang@xue.email](mailto:yang@xue.email)
-* 🚀  I'm currently working on [my portfolio](http://yangxue.me)
+* 🚀  I'm currently working on [my portfolio](http://yangxue.ca)
 * 🤝  I'm open to collaborating on websites with crazy designs
 
 ### Skills
