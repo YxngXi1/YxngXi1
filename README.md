@@ -1,7 +1,7 @@
 Hi 👋 My name is Yang Xue
 =========================
 
-Front-End Developer
+3x hackathon winner
 -------------------
 
 <img src="https://media.tenor.com/Cdsz67OHTE0AAAAi/kitty-cat.gif" width="200" alt="Funny Cat">
